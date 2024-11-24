@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
@@ -12,3 +13,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk deploy`  deploy this stack to your default AWS account/region
 * `npx cdk diff`    compare deployed stack with current state
 * `npx cdk synth`   emits the synthesized CloudFormation template
+=======
+# serverless-image-resizer
+A serverless image resizing project built using AWS Lambda, S3, and CDK.
+>>>>>>> adec8265e45ce486683ae02fd30f61e53d4f8421
